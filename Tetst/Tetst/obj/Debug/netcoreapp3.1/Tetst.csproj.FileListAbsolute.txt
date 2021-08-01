@@ -1,0 +1,13 @@
+C:\Users\MakaraPC\Desktop\Tetst\Tetst\bin\Debug\netcoreapp3.1\Tetst.exe
+C:\Users\MakaraPC\Desktop\Tetst\Tetst\bin\Debug\netcoreapp3.1\Tetst.deps.json
+C:\Users\MakaraPC\Desktop\Tetst\Tetst\bin\Debug\netcoreapp3.1\Tetst.runtimeconfig.json
+C:\Users\MakaraPC\Desktop\Tetst\Tetst\bin\Debug\netcoreapp3.1\Tetst.runtimeconfig.dev.json
+C:\Users\MakaraPC\Desktop\Tetst\Tetst\bin\Debug\netcoreapp3.1\Tetst.dll
+C:\Users\MakaraPC\Desktop\Tetst\Tetst\bin\Debug\netcoreapp3.1\Tetst.pdb
+C:\Users\MakaraPC\Desktop\Tetst\Tetst\obj\Debug\netcoreapp3.1\Tetst.csprojAssemblyReference.cache
+C:\Users\MakaraPC\Desktop\Tetst\Tetst\obj\Debug\netcoreapp3.1\Tetst.AssemblyInfoInputs.cache
+C:\Users\MakaraPC\Desktop\Tetst\Tetst\obj\Debug\netcoreapp3.1\Tetst.AssemblyInfo.cs
+C:\Users\MakaraPC\Desktop\Tetst\Tetst\obj\Debug\netcoreapp3.1\Tetst.csproj.CoreCompileInputs.cache
+C:\Users\MakaraPC\Desktop\Tetst\Tetst\obj\Debug\netcoreapp3.1\Tetst.dll
+C:\Users\MakaraPC\Desktop\Tetst\Tetst\obj\Debug\netcoreapp3.1\Tetst.pdb
+C:\Users\MakaraPC\Desktop\Tetst\Tetst\obj\Debug\netcoreapp3.1\Tetst.genruntimeconfig.cache
